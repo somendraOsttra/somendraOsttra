@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Somendra Sharma @somendraOsttra
 - 👀 Connect me for FX/Harmony3
 - 🌱 I’m currently learning - React | DSA
-- 💞️ Java | Microservices | Springboot | Angular | Architecture 
+- 💞️ Java | Microservices | Springboot | Architecture 
 - 📫 Reach me @ somendra.sharma@osttra.com | +91 8073855579
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Play safe with legacy code 😄
